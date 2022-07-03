@@ -28,18 +28,31 @@
       }
     ]
   },
-  "work": [{
-    "name": "Altamar",
-    "position": "Full stack developer",
-    "url": "https://github.com/ferax99/AltamarApp",
-    "startDate": "2021-05-06",
-    "endDate": "2021-11-12",
-    "summary": "This is a mobile application made for fishermans to publish and sell their catchings, aswell as for customers to find and buy fish. It was developed using the React Native framework and works with Android and iOS.",
-    "highlights": [
-      "Learned how to work with the React and React native frameworks",
-      "Mainly frontend experience with some backend here and there"
-    ]
-  }],
+  "work": [
+    {
+     "name": "Altamar",
+      "position": "Full stack developer",
+      "url": "https://github.com/ferax99/AltamarApp",
+     "startDate": "2021-05-06",
+      "endDate": "2021-11-12",
+      "summary": "This is a mobile application made for fishermans to publish and sell their catchings, aswell as for customers to find and buy fish. It was developed using the React Native framework and works with Android and iOS.",
+      "highlights": [
+        "Learned how to work with the React and React native frameworks",
+       "Mainly frontend experience with some backend here and there"
+      ]
+    },
+    {
+      "name": "Altamar administration client",
+       "position": "Full stack developer",
+       "url": "https://github.com/Ruvilo/AltaMar",
+      "startDate": "2021-05-06",
+       "endDate": "2021-11-12",
+       "summary": "This is a web application made for the owners of the Altamar app, designed to administrate the service, with functions such as add, delete and modify users and products, it also shows some statistics intended for analitics purposes. It was developed using the React framework.",
+       "highlights": [
+         
+       ]
+     }
+  ],
   "education": [
     {
       "institution": "Costa Rica Institute of Technology",
