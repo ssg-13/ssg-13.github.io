@@ -7,7 +7,7 @@
     "email": "sebas.mqt@gmail.com",
     "phone": "",
     "url": "https://ssg-13.github.io",
-    "summary": "I am a dedicated, hard working and methodical individual. I have good interpersonal skills, am an excellent team worker and am keen and very willing to learn and develop new skills. I am well organized and always plan ahead to make sure I manage my time well. I have an active and dynamic approach to work and getting things done. I am determined and decisive. Some of my hobbies include music, gaming, excercising and, of course, programming. I have a strong passion about technology, so I am always looking and staying up to date with new technologies and advancements.",
+    "summary": "I am a dedicated, hard working and methodical individual. I have good interpersonal skills, I am an excellent team worker, and I am keen and ready to learn and develop new skills. I am well organized and always plan ahead to make sure I manage my time well. I have an active and dynamic approach to work and getting things done. I am determined and decisive. Some of my hobbies include music, gaming, excercising, and, of course, programming. I have a strong passion about technology, so I am always looking and staying up to date with new technologies and advancements.",
     "location": {
       "address": "San Ramón",
       "postalCode": "20201",
@@ -35,10 +35,10 @@
       "url": "https://github.com/ferax99/AltamarApp",
      "startDate": "2021-05-06",
       "endDate": "2021-11-12",
-      "summary": "This is a mobile application made for fishermans to publish and sell their catchings, aswell as for customers to find and buy fish. It was developed using the React Native framework and works with Android and iOS.",
+      "summary": "This is a mobile application made for fishermen to publish and sell their catchings, as well as for customers to find and buy fish. It was developed using the React Native framework and works with Android and iOS.",
       "highlights": [
-        "Learned how to work with the React and React native frameworks",
-       "Mainly frontend experience with some backend here and there"
+        "To Learn how to work with the React and React native frameworks.",
+       "A mainly frontend experience with some backend."
       ]
     },
     {
@@ -47,7 +47,7 @@
        "url": "https://github.com/Ruvilo/AltaMar",
       "startDate": "2021-05-06",
        "endDate": "2021-11-12",
-       "summary": "This is a web application made for the owners of the Altamar app, designed to administrate the service, with functions such as add, delete and modify users and products, it also shows some statistics intended for analitics purposes. It was developed using the React framework.",
+       "summary": "This is a web application made for owners of the Altamar app, designed to administrate the service, with functions such as add, delete, and modify users and products; it also shows some statistics intended for analitics purposes. It was developed using the React framework.",
        "highlights": [
          
        ]
