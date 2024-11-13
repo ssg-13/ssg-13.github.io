@@ -2,12 +2,12 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Sebastián Solórzano",
-    "label": "Computer Engineer",
+    "label": "Cybersecurity Analyst | Computer Engineer",
     "image": "https://avatars.githubusercontent.com/u/57809455?v=4",
     "email": "sebas.mqt@gmail.com",
     "phone": "",
     "url": "https://ssg-13.github.io",
-    "summary": "I am a dedicated, hard working and methodical individual. I have good interpersonal skills, I am an excellent team worker, and I am keen and ready to learn and develop new skills. I am well organized and always plan ahead to make sure I manage my time well. I have an active and dynamic approach to work and getting things done. I am determined and decisive. Some of my hobbies include music, gaming, excercising, and, of course, programming. I have a strong passion about technology, so I am always looking and staying up to date with new technologies and advancements.",
+    "summary": "Detail-oriented and proactive Cybersecurity Analyst with experience in threat monitoring, basic incident response, and security management. Adept at identifying, analyzing, and mitigating security risks through the use of advanced tools and techniques. Known for a methodical approach to incident investigation and strong problem-solving skills. Experienced in ensuring the security and integrity of critical systems and data, while collaborating with cross-functional teams to strengthen organizational defenses. Passionate about staying ahead of evolving cybersecurity threats and implementing best practices to safeguard digital assets.",
     "location": {
       "address": "San Ramón",
       "postalCode": "20201",
@@ -30,34 +30,26 @@
   },
   "work": [
     {
-     "name": "Altamar",
-      "position": "Full stack developer",
-      "url": "https://github.com/ferax99/AltamarApp",
-     "startDate": "2021-05-06",
-      "endDate": "2021-11-12",
-      "summary": "This is a mobile application made for fishermen to publish and sell their catchings, as well as for customers to find and buy fish. It was developed using the React Native framework and works with Android and iOS.",
+     "name": "Equifax",
+      "position": "Cybersecurity Operations Analyst",
+      "url": "https://www.equifax.com",
+     "startDate": "2023-07-23",
+      "endDate": "Now",
+      "summary": "Worked as a Cybersecurity Analyst specialized in threat monitoring and basic incident response.",
       "highlights": [
-        "To learn how to work with the React and React native frameworks.",
-       "A mainly frontend experience with some backend."
+       "Monitored and investigated cyber incidents using a variety of tools, including Endpoint Detection and Response (EDR) systems, Security Information and Event Management (SIEM) platforms, and automated email threat detection tools like ETP or GSuite. Conducted thorough investigations of alerts from intrusion detection systems, as well as Windows, Linux, Mac systems, and network infrastructure.",
+       "Implemented effective response measures and mitigation strategies to safeguard organizational assets from potential security threats.",
+       "Identified opportunities to optimize threat detection processes and collaborated with the engineering team to reduce false positives by refining detection rules and adjusting alert thresholds.",
+       "Managed pager duties to provide 24/7 support for critical security incidents and alerts, ensuring swift response and resolution of high-priority issues.",
+       "Collaborated closely with cross-functional teams to resolve security incidents, applying strong analytical and communication skills to determine the appropriate escalation points and ensure timely and effective incident resolution."
       ]
-    },
-    {
-      "name": "Altamar administration client",
-       "position": "Full stack developer",
-       "url": "https://github.com/Ruvilo/AltaMar",
-      "startDate": "2021-05-06",
-       "endDate": "2021-11-12",
-       "summary": "This is a web application made for owners of the Altamar app, designed to administrate the service, with functions such as add, delete, and modify users and products; it also shows some statistics intended for analitics purposes. It was developed using the React framework.",
-       "highlights": [
-         
-       ]
-     }
+    }
   ],
   "education": [
     {
       "institution": "Costa Rica Institute of Technology",
       "url": "https://www.tec.ac.cr",
-      "area": "Computer Engineer (ongoing)",
+      "area": "Computer Engineering",
       "studyType": "Bachelor",
       "startDate": "2016-01-21",
       "endDate": "2023-01-01",
@@ -83,19 +75,72 @@
   ],
   "skills": [
     {
-      "name": "Frontend",
-      "level": "Junior",
+      "name": "Threat Monitoring & Analysis",
+      "level": "",
+      "keywords": [
+        
+      ]
+    },
+    {
+      "name": "Security Information & Event Management (SIEM)",
+      "level": "",
+      "keywords": [
+        "Splunk",
+        "Devo"
+      ]
+    },
+    {
+      "name": "Endpoint Detection & Response (EDR)",
+      "level": "",
+      "keywords": [
+        "SentinelOne"
+      ]
+    },
+    {
+      "name": "Log Analysis",
+      "level": "",
+      "keywords": [
+        
+      ]
+    },
+    {
+      "name": "Operating Systems",
+      "level": "",
+      "keywords": [
+        "Linux",
+        "Windows"
+      ]
+    },
+    {
+      "name": "Network Security",
+      "level": "",
+      "keywords": [
+        
+      ]
+    },
+    {
+      "name": "Strong Communication & Reporting Skills",
+      "level": "",
+      "keywords": [
+        
+      ]
+    },
+    {
+      "name": "Malware Analysis",
+      "level": "Beginner",
+      "keywords": [
+        "Static Analysis",
+        "Dynamic Analysis"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "Intermediate",
       "keywords": [
         "HTML",
         "CSS",
         "Javascript",
-        "React / React native"
-      ]
-    },
-    {
-      "name": "Backend",
-      "level": "Junior",
-      "keywords": [
+        "React / React native",
         "Python",
         "C",
         "Java",
@@ -117,26 +162,9 @@
   ],
   "interests": [
     {
-      "name": "Music",
+      "name": "",
       "keywords": [
-        "Guitarist"
-      ]
-    },
-    {
-      "name": "Gaming",
-      "keywords": [
-        "E-sports enthusiast"
-      ]
-    },
-    {
-      "name": "Work out",
-      "keywords": [
-        "Gym"
-      ]
-    },
-    {
-      "name": "Anime",
-      "keywords": [
+        ""
       ]
     }
   ],
