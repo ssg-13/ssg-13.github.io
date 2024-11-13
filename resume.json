@@ -12,7 +12,7 @@
       "address": "San Ramón",
       "postalCode": "20201",
       "city": "San Ramón",
-      "countryCode": "CR",
+      "countryCode": "Costa Rica",
       "region": "Alajuela"
     },
     "profiles": [
@@ -37,9 +37,9 @@
       "endDate": "Now",
       "summary": "Worked as a Cybersecurity Analyst specialized in threat monitoring and basic incident response.",
       "highlights": [
-       "Monitored and investigated cyber incidents using a variety of tools, including Endpoint Detection and Response (EDR) systems, Security Information and Event Management (SIEM) platforms, and automated email threat detection tools like ETP or GSuite. Conducted thorough investigations of alerts from intrusion detection systems, as well as Windows, Linux, Mac systems, and network infrastructure.",
+       "Monitored and investigated cyber incidents using a variety of tools, including EDR systems, SIEM platforms, and automated email threat detection tools like ETP or GSuite. Conducted thorough investigations of alerts from intrusion detection systems, as well as Windows, Linux, Mac systems, and network infrastructure.",
        "Implemented effective response measures and mitigation strategies to safeguard organizational assets from potential security threats.",
-       "Identified opportunities to optimize threat detection processes and collaborated with the engineering team to reduce false positives by refining detection rules and adjusting alert thresholds.",
+       "Identified opportunities to optimize threat detection processes and collaborated with the engineering team to reduce false positives by refining detection rules.",
        "Managed pager duties to provide 24/7 support for critical security incidents and alerts, ensuring swift response and resolution of high-priority issues.",
        "Collaborated closely with cross-functional teams to resolve security incidents, applying strong analytical and communication skills to determine the appropriate escalation points and ensure timely and effective incident resolution."
       ]
@@ -78,7 +78,8 @@
       "name": "Threat Monitoring & Analysis",
       "level": "",
       "keywords": [
-        
+        "Log Analysis",
+        "Network Security"
       ]
     },
     {
@@ -97,32 +98,11 @@
       ]
     },
     {
-      "name": "Log Analysis",
-      "level": "",
-      "keywords": [
-        
-      ]
-    },
-    {
       "name": "Operating Systems",
       "level": "",
       "keywords": [
         "Linux",
         "Windows"
-      ]
-    },
-    {
-      "name": "Network Security",
-      "level": "",
-      "keywords": [
-        
-      ]
-    },
-    {
-      "name": "Strong Communication & Reporting Skills",
-      "level": "",
-      "keywords": [
-        
       ]
     },
     {
@@ -137,15 +117,13 @@
       "name": "Programming",
       "level": "Intermediate",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript",
+        "HTML / CSS",
+        "JavaScript",
         "React / React native",
         "Python",
         "C",
         "Java",
-        "Postgres / SQL Databases",
-        "MongoDB / Elasticsearch / Non SQL Databases",
+        "SQL Databases / Non SQL Databases",
         "Docker / Docker Compose"
       ]
     }
