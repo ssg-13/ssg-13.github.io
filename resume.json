@@ -7,7 +7,7 @@
     "email": "sebas.mqt@gmail.com",
     "phone": "",
     "url": "https://ssg-13.github.io",
-    "summary": "Detail-oriented and proactive Cybersecurity Analyst with experience in threat monitoring, basic incident response, and security management. Adept at identifying, analyzing, and mitigating security risks through the use of advanced tools and techniques with a methodical approach to incident investigation and strong problem-solving skills. Experienced in ensuring the security and integrity of critical systems and data, while collaborating with cross-functional teams to strengthen organizational defenses. Passionate about staying ahead of evolving cybersecurity threats and implementing best practices to safeguard digital assets.",
+    "summary": "Detail-oriented and proactive Cybersecurity Analyst with experience in threat monitoring and basic incident response. Adept at identifying, analyzing, and mitigating security risks through the use of advanced tools and techniques with a methodical approach to incident investigation and strong problem-solving skills. Experienced in ensuring the security and integrity of critical systems and data, while collaborating with cross-functional teams to strengthen organizational defenses. Passionate about staying ahead of evolving cybersecurity threats and implementing best practices to safeguard digital assets.",
     "location": {
       "address": "San Ramón",
       "postalCode": "20201",
@@ -31,7 +31,7 @@
   "work": [
     {
      "name": "Equifax",
-      "position": "Cybersecurity Operations Analyst",
+      "position": "Cybersecurity Operations Analyst Tier 2",
       "url": "https://www.equifax.com",
      "startDate": "2023-07-23",
       "endDate": "Now",
@@ -39,9 +39,9 @@
       "highlights": [
        "Monitored and investigated cyber incidents using a variety of tools, including EDR systems, SIEM platforms, and automated email threat detection tools like ETP or GSuite. Conducted thorough investigations of alerts from intrusion detection systems, as well as Windows, Linux, Mac systems, and network infrastructure.",
        "Implemented effective response measures and mitigation strategies to safeguard organizational assets from potential security threats.",
-       "Identified opportunities to optimize threat detection processes and collaborated with the engineering team to reduce false positives by refining detection rules.",
-       "Managed pager duties to provide 24/7 support for critical security incidents and alerts, ensuring swift response and resolution of high-priority issues.",
-       "Collaborated closely with cross-functional teams to resolve security incidents, applying strong analytical and communication skills to determine the appropriate escalation points and ensure timely and effective incident resolution."
+       "Identified opportunities to optimize threat detection processes, collaborating with the engineering team to reduce false positives by refining detection rules, validating and approving new detections, reviewing and updating existing internal processes documentation.",
+       "Provided regular coaching and training to junior analysts. Performed weekly Quality Assurance evaluations on investigations performed by tier 1 analysts.",
+       "Collaborated closely with tier 1 and tier 3 during high severity incidents, applying strong analytical and communication skills to determine the appropriate escalation points and ensure timely and effective incident resolution."
       ]
     }
   ],
