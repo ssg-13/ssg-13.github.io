@@ -35,13 +35,13 @@
       "url": "https://www.equifax.com",
      "startDate": "2023-07-23",
       "endDate": "Now",
-      "summary": "Worked as a Cybersecurity Analyst specialized in threat monitoring and basic incident response.",
+      "summary": "Work as a Cybersecurity Analyst specialized in threat monitoring and basic incident response.",
       "highlights": [
-       "Monitored and investigated cyber incidents using a variety of tools, including EDR systems, SIEM platforms, and automated email threat detection tools like ETP or GSuite. Conducted thorough investigations of alerts from intrusion detection systems, as well as Windows, Linux, Mac systems, and network infrastructure.",
-       "Implemented effective response measures and mitigation strategies to safeguard organizational assets from potential security threats.",
-       "Identified opportunities to optimize threat detection processes, collaborating with the engineering team to reduce false positives by refining detection rules, validating and approving new detections, reviewing and updating existing internal processes documentation.",
-       "Provided regular coaching and training to junior analysts. Performed weekly Quality Assurance evaluations on investigations performed by tier 1 analysts.",
-       "Collaborated closely with tier 1 and tier 3 during high severity incidents, applying strong analytical and communication skills to determine the appropriate escalation points and ensure timely and effective incident resolution."
+       "Monitor and investigate cyber incidents using a variety of tools, including EDR systems, SIEM platforms, and automated email threat detection tools like ETP or GSuite. Conduct thorough investigations of alerts from intrusion detection systems, as well as Windows, Linux, Mac systems, and network infrastructure.",
+       "Implement effective response measures and mitigation strategies to safeguard organizational assets from potential security threats.",
+       "Identify opportunities to optimize threat detection processes, collaborating with the engineering team to reduce false positives by refining detection rules, validating and approving new detections, reviewing and updating existing internal processes documentation.",
+       "Provide regular coaching and training to junior analysts. Perform weekly Quality Assurance evaluations on investigations performed by tier 1 analysts.",
+       "Collaborate closely with tier 1 and tier 3 during high severity incidents, applying strong analytical and communication skills to determine the appropriate escalation points and ensure timely and effective incident resolution."
       ]
     }
   ],
